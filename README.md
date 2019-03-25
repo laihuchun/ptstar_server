@@ -9,7 +9,7 @@ Software architecture description
 #### Instructions
 
 1. php项目
-2. 虽然登陆，和获取信息都是加密或者解密的。但各个功能的接口并没有认证.如果别人扫描网页可轻易跳过认证.
+2. 登陆、上传接口都是加密的。但接口之间并没有验签功能.
 
 
 
